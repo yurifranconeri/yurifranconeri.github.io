@@ -4,7 +4,7 @@
 
 Engenheiro da computação, consultor de desenvolvimento trabalhando para Microsoft.<br />
 <br />Amo programar, ler, escrever e estudar tudo que é possível e óbvio, bebendo café!<br />
-<br />Marido de uma linda esposa e de um incrível menino que acabou de vir pro mundo
+<br />Marido de uma linda esposa e pai de um incrível menino que acabou de vir pro mundo, sem contar o Café, o cachorro companheiro. 
 
 ## Então! Bora aprender tudo e compartilhar
 
@@ -62,7 +62,7 @@ Ahh já faz um tempo, eu tive muitas alegrias brincando com Arduino desde de LED
 
 Computer engineer, development consultant working for Microsoft.<br />
 <br />Love coding, reading, writing and studying everything it's possible, drinking coffee<br />
-<br />Husband of a beautiful wife and a new amazing baby boy
+<br />Husband of a beautiful wife and daddy of a new amazing baby boy, last but not the least, Café (Coffee) the best dog!
 
 ### Hey! let's learn it all and shagre everything.
 
