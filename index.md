@@ -56,7 +56,8 @@ Ahh já faz um tempo, eu tive muitas alegrias brincando com Arduino desde de LED
 - [linkedIn](https://www.linkedin.com/in/yurifranconeri/)
 - [instagram](https://instagram.com/yurifranconeri)
 
->                                       english
+>                               english
+
 # I am Yuri Franconeri!
 
 Computer engineer, development consultant working for Microsoft.<br />
