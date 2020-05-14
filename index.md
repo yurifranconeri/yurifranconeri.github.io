@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<link rel="shortcut icon" href="favicon.ico" />
 
-You can use the [editor on GitHub](https://github.com/yurifranconeri/yurifranconeri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# I am Yuri Franconeri!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computer engineer, development consultant working for Microsoft.<br />
+<br />Love coding, reading, writing and studying everything it's possible, drinking coffee<br />
+<br />Husband of a beautiful wife and a new amazing baby boy
 
-### Markdown
+### Hey! let's learn it all and share everything.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Recent works:
 
-# Header 1
-## Header 2
-### Header 3
+## Algorithms
+Algorithms is something that I really like to study and code because seems to be the real viking style coding! Brutal!
 
-- Bulleted
-- List
+> Check it out the [repository](https://github.com/yurifranconeri/Algorithms) 
 
-1. Numbered
-2. List
+- C#
+    - Searching
+        - Linear Search
+        - Binary Search
+        - Jump Search
+        - Interpolation Search
+        - Exponential Search
+    - Sorting 
+        - Selection Sort
+        - Bubble Sort
+        - Insertion Sort
 
-**Bold** and _Italic_ and `Code` text
+## Books Summaries
+As I'm always reading something I'm thinking on share my understanding, I'll learn more writing, It'll be a good place to review and also share knowledge 
 
-[Link](url) and ![Image](src)
-```
+> Check it out the [repository](https://github.com/yurifranconeri/books) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- WIP
+    - Clean Code
 
-### Jekyll Themes
+## Cafetando
+The life is too short to drink bad coffee, so I write about it in [cafetando.com](http://cafetando.com) only portuguese, sorry!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yurifranconeri/yurifranconeri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Arduino
+It's been a while, I had so much fun playing with Arduino from LEDs to quadcopters. Miss you buddy, the projects are there and I promisse to come back ;(
 
-### Support or Contact
+> Check it out the [repository](https://github.com/yurifranconeri/Arduino) 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me!
+
+- [e-mail](mailto:franconeriyuri@hotmail.com)
+- [linkedIn](https://www.linkedin.com/in/yurifranconeri/)
