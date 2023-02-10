@@ -2,7 +2,7 @@
 
 # Olá, eu sou Yuri Franconeri!
 
-Engenheiro da computação, consultor de desenvolvimento trabalhando para Microsoft.<br />
+Engenheiro da computação, consultor de desenvolvimento trabalhando para Google.<br />
 <br />Amo programar, ler, escrever e estudar tudo que é possível e óbvio, bebendo café!<br />
 <br />Marido de uma linda esposa e pai de um incrível menino que acabou de vir pro mundo, sem contar o Café, o cachorro companheiro. 
 
